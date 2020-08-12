@@ -1,21 +1,15 @@
 {
   "name": "veka",
   "version": "1.0.0",
-  "description": "A JS boilerplate generator",
+  "description": "A JS in memory data cache",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [
-    "Framework Generator"
+    "Data Base"
   ],
   "author": "Rakshith S N",
   "license": "MIT",
-  "bin": {
-    "shw": "index.js"
-  },
-  "dependencies": {
-    "commander": "^5.0.0",
-    "inquirer": "^7.1.0"
-  }
+  "dependencies": {}
 }
