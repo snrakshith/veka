@@ -1,0 +1,5 @@
+Packages used are:
+    - writing a file to a filesystem
+    - for effective timestamps
+    - file size calculator
+    - to generate information tables on console
